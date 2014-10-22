@@ -15,10 +15,10 @@ By the end of this module you will be able to:
 
 # agenda:
 
-[Understanding Software Engineering](/activity-4-1)
-[Understanding Software Quality](/activity-4-2)
-[Understanding Software Programming](/activity-4-3)
-[Understanding Software Execution Artifacts and Context](/activity-4-4)
+- [Understanding Software Engineering](/activity-4-1)
+- [Understanding Software Quality](/activity-4-2)
+- [Understanding Software Programming](/activity-4-3)
+- [Understanding Software Execution Artifacts and Context](/activity-4-4)
 
 # pair and share
 
