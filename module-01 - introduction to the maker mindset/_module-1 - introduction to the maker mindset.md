@@ -19,10 +19,10 @@ By the end of this module you will be able to:
 
 # agenda
 
-[Understanding the Maker Mindset](/activity-1-1)
-[Understanding Systems Development](/activity-1-2)
-[Understanding High Performance Learning](/activity-1-3)
-[Understanding How Experts Use Computers](/activity-1-4)
+- [Understanding the Maker Mindset](/activity-1-1)
+- [Understanding Systems Development](/activity-1-2)
+- [Understanding High Performance Learning](/activity-1-3)
+- [Understanding How Experts Use Computers](/activity-1-4)
 
 # pair and share
 
